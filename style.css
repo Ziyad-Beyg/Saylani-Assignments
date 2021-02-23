@@ -1,0 +1,180 @@
+body{
+    padding: 0%;
+    margin: 0%;
+}
+
+.family{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#frist-blue-line{
+    height: 40px;
+    background-color: rgb(16, 16, 230);
+    display: flex;
+    justify-content: center;
+}
+
+#blue-line-para{
+    display: flex;
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+#null-link{
+    text-decoration: none;
+    color: white;
+}
+
+#span-start:hover{
+    text-decoration: underline;
+    color: white;
+}
+
+.design{
+    margin-left: 6px;
+    margin-top: 5px;
+    font-size: 12px;
+}
+
+#mynavbar{
+    position: -webkit-sticky; 
+    position: sticky;
+    top: 0;
+}
+
+#table-1{
+    height: 40px;
+    width: 100%;
+    background-color: rgba(29, 28, 28, 0.925);
+    color: white;
+    font-size: 16px;
+    font-weight: lighter;
+}
+
+.fas,.fab{
+    font-size: 20px;
+}
+
+.col-diff{
+    width: 10%;
+}
+
+.col-same{
+    text-align: center;
+    width: 8%;
+}
+
+#second-para{
+    margin-bottom: 0px !important;
+    height: 40px;
+}
+
+.shop-online{
+    text-decoration: none;
+    font-weight: normal;
+    color: rgb(19, 19, 202);
+}
+
+.shop-online:hover{
+    text-decoration: underline;
+    color: rgb(19, 19, 202);
+}
+
+.main-heading{
+    font-size: 52px;
+    margin-top: 10;
+    margin-bottom: 5px;
+    color: black;
+}
+
+.sub-heading{
+    font-size: 28px;
+    font-weight: lighter;
+    margin: 0;
+    margin-bottom: 10px;
+    color: black;
+}
+
+.first-line{
+    margin: 0px;
+    padding-bottom: 5px;
+}
+
+.text{
+    margin: 0px;
+    letter-spacing: .75px;
+    font-size: 19px;
+    color: rgb(134, 130, 130);
+}
+
+#learn-buy{
+    font-weight: normal;
+    font-size: 22px;
+    letter-spacing: 1;
+    color: rgb(19, 19, 202);
+    margin-bottom: 0px;
+}
+
+.fa-greater-than{
+    font-size: 15px;
+    color: rgb(19, 19, 202);
+    font-weight: lighter;
+}
+
+#greater{
+    margin-right: 50px;
+}
+
+#iphone-12{
+    width: 60%;
+    height: 400px;
+}
+
+.main-heading-white{
+    padding-top: 40px;
+    color: white;
+    font-size: 52px;
+    margin-top: 10;
+    margin-bottom: 5px;
+}
+
+.sub-heading-white{
+    font-size: 28px;
+    font-weight: lighter;
+    margin: 0;
+    margin-bottom: 10px;
+    color: white;
+}
+
+#second-blog{
+    background-color: black;
+}
+
+#pic-link{
+    text-decoration: none;
+}
+
+#text-div{
+    margin-top: 30px;
+    width: 70%;
+    text-align: justify;
+    font-size: 13px;
+    color: rgb(99, 92, 92);
+}
+
+.col2-same{
+    color: black;
+    text-align: left;
+    width: 13%;
+    font-size: 12px;
+}
+
+.last-para-link{
+    margin-top: 50%;
+    text-decoration: none;
+    color: rgb(16, 16, 230);
+}
+
+#last-para{
+    margin-top: 50px;
+}
